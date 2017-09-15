@@ -1,0 +1,257 @@
+@-ms-viewport{
+  width: device-width;
+}
+
+.body {
+  font-family: 'Belleza', sans-serif;
+}
+
+/*Start-page-one*/
+
+.pageOne {
+  background-image:url("../img1.jpg") !important;
+  background-size: cover !important;
+  padding-top:8% !important;
+  height:870px !important;
+}
+
+.navBar{
+  position:fixed;
+  font-size:1.5em;
+  z-index:1;
+  right: 0px;
+  margin-bottom:10%;
+}
+
+#absolute{
+  top:5px;
+  right:16px;
+  width:412px;
+  height:52px;
+  border:1px solid #f2f2f2;
+}
+
+.h1 {
+  color: #000000;
+  text-shadow: 2px 2px 4px #330000;
+  font-size: 5.0em;
+}
+
+.h1Two {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 2.5em;
+  color: #FFF8DC;
+  text-shadow: 2px 2px 8px #000000;
+  padding: 45px;
+  padding-bottom: 2px;
+}
+
+.h2 {
+  font-size: 2.5em;
+  text-shadow: 2px 2px 8px #000000;
+}
+
+.block {
+  background-color: #FFFAF0;
+  opacity: .7;
+  padding: 10px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.containerOne {
+  padding-left: 0;
+  padding-right: 8%;
+}
+
+.horizontal {
+  display: inline;
+}
+.showMe{
+  display: block;
+  font-weight: 900;
+}
+
+.first {
+  border-right: 1px solid;
+  padding-right: 1.0em;
+  border-left: none;
+  padding-left: 0;
+}
+
+.middle1 {
+  border-left: none;
+  padding-left: 1.0em;
+  border-right: none;
+  padding-right: 1.0em;
+}
+
+.middle2 {
+  border-left: 1px solid;
+  padding-left: 1.0em;
+  border-right: none;
+  padding-right: 1.0em;
+}
+
+.last {
+  border-left: 1px solid;
+  padding-left: 1.0em;
+  border-right: none;
+  padding-right: 0;
+}
+
+.btn-sq-xs {
+  height: 20px;
+  width: 20px;
+  padding: 2px;
+  margin-bottom: 15px;
+}
+
+
+/*End-page-one*/
+
+
+/*Start-page-two*/
+
+.pageTwo {
+  background-image:url("../img1.jpg") !important;
+  background-size: cover !important;
+  padding-top:8% !important;
+  height:870px !important;
+
+}
+.workBox {
+  opacity: .3;
+    background-color: lightgrey;
+    width: auto;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+}
+
+.h1Three {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 4.0em;
+  color: #FFF8DC;
+  text-shadow: 2px 2px 8px #000000;
+  padding: 50px;
+  padding-bottom:45px;
+}
+.asdf{
+
+}
+
+.itsMe {
+  height: 290px;
+  width: 280px;
+  margin: 185px 40px 20px 80px;
+  border-radius: 50%;
+}
+
+.blockTwo {
+  position: relative;
+  background-color: #FFFAF0;
+  opacity: .7;
+  padding: 10px;
+  width: 44%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.pOne{
+  padding-top:1em;
+  padding-bottom:0;
+  font-size:1.5em;
+}
+
+
+
+/*End-page-two*/
+
+
+/*Start-page-three*/
+
+.pageThree {
+  background-image:url("../img1.jpg") !important;
+  background-size: cover !important;
+  padding-top:8% !important;
+  height:870px !important;
+}
+
+#ah-pushit{
+  left:50px;
+}
+
+#pushitgood{
+  left:30px;
+}
+
+#pu-pushitrealgood{
+  left:8px;
+}
+
+/*End-page-three*/
+
+/*Start-page-four*/
+
+.pageFour {
+  background-image:url("../img1.jpg") !important;
+  background-size: cover !important;
+  padding-top:8% !important;
+  height:870px !important;
+}
+
+/*Contact-form*/
+form{
+  margin:0 auto;
+  width:400px;
+  padding:1em;
+  border:1px solid 	#f2f2f2;
+  border-radius:1em;
+  background: #FFFAF0;
+  opacity:.7;
+}
+
+form div+div{
+  margin-top:1em;
+}
+
+label{
+  display:inline-block;
+  width:90px;
+  text-align:right;
+}
+
+input,textarea{
+  font:1em 'Belleza', sans-serif;
+  width:200px;
+  box-sizing:border-box;
+  border:2px solid #a9a9a9;
+}
+
+textarea{
+  vertical-align:top;
+  height:5em;
+  resize:vertical;
+}
+
+.button{
+  padding-left:90px;
+}
+
+button{
+  margin-left:.5em;
+}
+
+#getdownonit{
+  margin-top:12.5%;
+  margin-bottom:0;
+}
+
+#whatsmyname{
+  color:Black;
+}
+/*End-page-four*/
